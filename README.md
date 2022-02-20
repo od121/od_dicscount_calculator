@@ -1,2 +1,2 @@
-# myprojects
-Welcome to my projects, I am not the best by no means but I am here just for practicing my coding skills!
+# od_discount_calculator
+A simple no GUI program to calculate product price after applying a discount percentage.
